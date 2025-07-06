@@ -26,7 +26,7 @@
 
 ## Installation
 
-1. **Copy** `MeasurePnpm.zsh` into your Zsh functions folder (e.g. `~/.zsh-Functions/`).
+1. **Copy** `measurepnpm.zsh` into your Zsh functions folder (e.g. `~/.zsh-Functions/`).
 2. **Source** it from your `.zshrc`:
 
    ```zsh
@@ -110,7 +110,7 @@ SIZE      PACKAGE
 
 ## Customization
 
-- Tweak colours by editing the ANSI variables at the top of `MeasurePnpm.zsh`
+- Tweak colours by editing the ANSI variables at the top of `measurepnpm.zsh`
 - Adjust maximum depth of search in the `find` command if you have nonstandard layouts
 
 ---
